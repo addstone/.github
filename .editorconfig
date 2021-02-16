@@ -25,7 +25,7 @@ ij_smart_tabs = false
 ij_wrap_on_typing = false
 
 [*.css]
-indent_size = 2
+indent_size = 4
 tab_width = 2
 ij_css_align_closing_brace_with_properties = false
 ij_css_blank_lines_around_nested_selector = 1
@@ -308,7 +308,7 @@ ij_java_wrap_first_method_in_call_chain = false
 ij_java_wrap_long_lines = false
 
 [*.less]
-indent_size = 2
+indent_size = 4
 ij_continuation_indent_size = 8
 ij_less_align_closing_brace_with_properties = false
 ij_less_blank_lines_around_nested_selector = 1
@@ -329,7 +329,7 @@ ij_less_use_double_quotes = true
 ij_less_value_alignment = 0
 
 [*.sass]
-indent_size = 2
+indent_size = 4
 tab_width = 2
 ij_sass_align_closing_brace_with_properties = false
 ij_sass_blank_lines_around_nested_selector = 1
@@ -350,7 +350,7 @@ ij_sass_use_double_quotes = true
 ij_sass_value_alignment = 0
 
 [*.scss]
-indent_size = 2
+indent_size = 4
 tab_width = 2
 ij_scss_align_closing_brace_with_properties = false
 ij_scss_blank_lines_around_nested_selector = 1
@@ -371,7 +371,7 @@ ij_scss_use_double_quotes = true
 ij_scss_value_alignment = 0
 
 [*.styl]
-indent_size = 2
+indent_size = 4
 ij_continuation_indent_size = 8
 ij_stylus_align_closing_brace_with_properties = false
 ij_stylus_blank_lines_around_nested_selector = 1
@@ -1412,6 +1412,6 @@ ij_properties_spaces_around_key_value_delimiter = false
 
 [{*.yaml, *.yml}]
 # 缩进的空格数
-indent_size = 2
+indent_size = 4
 ij_yaml_keep_indents_on_empty_lines = false
 ij_yaml_keep_line_breaks = true
